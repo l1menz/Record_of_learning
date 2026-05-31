@@ -1,0 +1,1 @@
+# Cool collection of notes for programming languages I learnt, projects I built and general technical topics I learnt along the way.
